@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.6ce52b56.css","mappings":"AACI,MACI,UACA","sources":["App.scss"],"sourcesContent":["div {\n    p {\n        color: red;\n        font-size: 10rem;\n    }\n}"],"names":[],"sourceRoot":""}
