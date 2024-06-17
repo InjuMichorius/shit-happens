@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/shit-happens/static/css/main.2191b878.css",
-    "main.js": "/shit-happens/static/js/main.005738c8.js",
+    "main.css": "/shit-happens/static/css/main.f3f2ad45.css",
+    "main.js": "/shit-happens/static/js/main.d5b17510.js",
     "index.html": "/shit-happens/index.html",
-    "main.2191b878.css.map": "/shit-happens/static/css/main.2191b878.css.map",
-    "main.005738c8.js.map": "/shit-happens/static/js/main.005738c8.js.map"
+    "main.f3f2ad45.css.map": "/shit-happens/static/css/main.f3f2ad45.css.map",
+    "main.d5b17510.js.map": "/shit-happens/static/js/main.d5b17510.js.map"
   },
   "entrypoints": [
-    "static/css/main.2191b878.css",
-    "static/js/main.005738c8.js"
+    "static/css/main.f3f2ad45.css",
+    "static/js/main.d5b17510.js"
   ]
 }
